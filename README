@@ -1,0 +1,1 @@
+gcc -ansi -W -Wextra -Wall sim.c splay_tree.c fifo.c
